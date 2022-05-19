@@ -1,1 +1,1 @@
-cat READ.md
+echo ' ' > up_to_date
